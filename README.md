@@ -384,4 +384,4 @@ docker-compose.yaml
 
  **Sample output or screenshot from Kibana showing logs from the Java application**
 
-![Sample output from kibana]('./assets/ELK.png')
+![Sample output from kibana](./assets/ELK.png)
